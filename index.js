@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:!0}),exports.isPlainObject=function(e){try{return[Object.prototype,null].indexOf(Object.getPrototypeOf(e))>-1}catch(e){return!1}};
